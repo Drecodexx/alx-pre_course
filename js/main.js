@@ -1,0 +1,1 @@
+alert("you're straight ?");
